@@ -24,7 +24,7 @@ Revise Java - [Link](https://www.youtube.com/watch?v=GdzRzWymT4c)
 
 
 # Searching 
- - [Lower Bound]()
+ - [Lower Bound]()[complete]
  - [Upper Bount]()
  - [First and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
  - [Smaller or equal elements](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
